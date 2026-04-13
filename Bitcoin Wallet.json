@@ -1,0 +1,31 @@
+{
+  "version" : 3,
+  "crypto" : {
+    "ciphertext" : "32eea215682d25bbe370dac8a3159b2c0609cde48f44439bf2ac9cd45bcd59b387e961ad1543c2768910932877dd5c435f0984cdd2b873f296ba235c3d67e8ab3d982fb4e36ce5",
+    "cipherparams" : {
+      "iv" : "168b46b9e50ee752ed5cf8f2b3671820"
+    },
+    "kdf" : "scrypt",
+    "kdfparams" : {
+      "r" : 8,
+      "p" : 4,
+      "n" : 16384,
+      "dklen" : 32,
+      "salt" : "9e3fdea8ec875038455279e89e889fb830f6b12fed05662b627f002b3df9c187"
+    },
+    "mac" : "10f89cd34893b01742d9e12b0d69a593e845bc9c2d1762ffbb7d3867a223e458",
+    "cipher" : "aes-128-ctr"
+  },
+  "id" : "d780da43-5beb-4065-9ff3-8d8123b5804d",
+  "activeAccounts" : [
+    {
+      "extendedPublicKey" : "zpub6rgidGdkqk69gQ2L9BufwZAtUWyfPHavd4BVc3w1fP769bhMCLeK8CRiHJT68gCmbb6RVHrsZUqKtHgtiC3vNP1KYmnqmVANrnFfUBVko1X",
+      "publicKey" : "02db8bba85bb1e4df0f04246d16d1e00fd87273485890b94a5a46d4b85c8306109",
+      "coin" : 0,
+      "derivationPath" : "m\/84'\/0'\/0'\/0\/0",
+      "address" : "bc1q5n3skedtva9ss5kzh5wxud6re80r0rkdqazvh7"
+    }
+  ],
+  "name" : "Bitcoin Wallet",
+  "type" : "mnemonic"
+}
